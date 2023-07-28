@@ -8,7 +8,7 @@
 in Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM 2023**)  
 by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma  
 <div align=center>
-<img src="https://github.com/lok-18/IGNet/blob/master/fig/compare.png" width="100%">
+<img src="https://github.com/lok-18/IGNet/blob/master/fig/1.png" width="100%">
 </div>  
 Fortunately, our article is in the acceptance list. We will give the article link after the article is published!
 
