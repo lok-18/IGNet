@@ -7,10 +7,17 @@
 ### *Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion (Accept)*
 in Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM 2023**)  
 by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma  
+
+**Overall performance comparison:**
 <div align=center>
 <img src="https://github.com/lok-18/IGNet/blob/master/fig/compare.png" width="100%">
 </div>  
-Fortunately, our article is in the acceptance list. We will give the article link after the article is published!
+
+
+**Framework of our proposed IGNet:**
+<div align=center>
+<img src="https://github.com/lok-18/IGNet/blob/master/fig/network.PNG" width="100%">
+</div>  
 
 ### *Requirements* 
 > - python 3.7  
@@ -38,3 +45,5 @@ Fortunately, our article is in the acceptance list. We will give the article lin
 > Dataset download: [[*TNO*]](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029) & [[*MFNet*]](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) & [[*M3FD*]](https://github.com/JinyuanLiu-CV/TarDAL)
 > 
 > Note that if ```./test_images/vis/xxx.png``` is in single-channel L format, you should use ```LtoRGB.py``` to convert it to three-channel RGB format.
+
+### *Test*
