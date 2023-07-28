@@ -1,6 +1,6 @@
 # IGNet
 [![ACM](https://img.shields.io/badge/ACM-MM2023-purple)](https://www.acmmm2023.org/)
-[![LICENSE](https://img.shields.io/badge/License-MIT-green)](https://github.com/lok-18/GeSeNet/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/badge/License-MIT-green)](https://github.com/lok-18/IGNet/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.7-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.7.0-orange)](https://pytorch.org/)
 
@@ -19,3 +19,19 @@ Fortunately, our article is in the acceptance list. We will give the article lin
 > - opencv 4.5
 > - numpy 1.21.6
 > - pillow 9.4.0
+
+### *Dataset setting*
+> We give 5 test image pairs as examples in TNO, MFNet and M3FD datasets, respectively.
+>
+> Moreover, you can set your own test datasets of different modalities under ```./test_images/...```, like:   
+> ```
+> test_images
+> ├── ir
+> |   ├── 1.png
+> |   ├── 2.png
+> |   └── ...
+> ├── vis
+> |   ├── 1.png
+> |   ├── 2.png
+> |   └── ...
+> ```
