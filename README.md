@@ -35,3 +35,6 @@ Fortunately, our article is in the acceptance list. We will give the article lin
 > |   ├── 2.png
 > |   └── ...
 > ```
+> Dataset download: [[*TNO*]](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029) & [[*MFNet*]](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) & [[*M3FD*]](https://github.com/JinyuanLiu-CV/TarDAL)
+> 
+> Note that if ```./test_images/vis/xxx.png``` is in single-channel L format, you should use ```LtoRGB.py``` to convert it to three-channel RGB format.
