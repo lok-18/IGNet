@@ -28,8 +28,8 @@ by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma
 > - pillow 9.4.0
 
 ### *Dataset setting*
-> We give 5 test image pairs as examples in TNO, MFNet and M3FD datasets, respectively.
->
+> We give 5 test image pairs as examples in [[*TNO*]](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029), [[*MFNet*]](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) and [[*M3FD*]](https://github.com/JinyuanLiu-CV/TarDAL) datasets, respectively.
+> 
 > Moreover, you can set your own test datasets of different modalities under ```./test_images/...```, like:   
 > ```
 > test_images
@@ -42,7 +42,6 @@ by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma
 > |   ├── 2.png
 > |   └── ...
 > ```
-> Dataset download: [[*TNO*]](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029) & [[*MFNet*]](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) & [[*M3FD*]](https://github.com/JinyuanLiu-CV/TarDAL)
 > 
 > Note that if ```./test_images/vis/xxx.png``` is in single-channel L format, you should use ```LtoRGB.py``` to convert it to three-channel RGB format.
 
