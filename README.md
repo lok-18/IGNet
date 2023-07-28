@@ -1,1 +1,1 @@
-# IGNet1
+# IGNet
