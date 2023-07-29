@@ -53,3 +53,11 @@ by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma
 > ├── 1.png
 > ├── 2.png
 > └── ...
+
+### *Experimental results*
+> We compared our proposed IGNet with [[*DIDFuse*]](https://github.com/Zhaozixiang1228/IVIF-DIDFuse), [[*U2Fusion*]](https://github.com/hanna-xu/U2Fusion), [[*SDNet*]](https://github.com/HaoZhang1018/SDNet), [[*TarDAL*]](https://github.com/JinyuanLiu-CV/TarDAL), [[*UMFusion*]](https://github.com/wdhudiekou/UMF-CMGR), [[*DeFusion*]](https://github.com/erfect2020/DecompositionForFusion) and [[*ReCoNet*]](https://github.com/JinyuanLiu-CV/ReCoNet).
+> 
+> **Fusion results:**
+> <div align=center>
+> <img src="https://github.com/lok-18/IGNet/blob/master/fig/compare.png" width="100%">
+> </div>
