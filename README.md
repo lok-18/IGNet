@@ -59,5 +59,9 @@ by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma
 > 
 > **Fusion results:**
 > <div align=center>
-> <img src="https://github.com/lok-18/IGNet/blob/master/fig/compare.png" width="100%">
+> <img src="https://github.com/lok-18/IGNet/blob/master/fig/fusion.png" width="100%">
 > </div>
+>
+> <br>After retaining the fusion results of all methods on [[*YOLOv5*]](https://github.com/ultralytics/yolov5) and [[*DeepLabV3+*]](https://github.com/VainF/DeepLabV3Plus-Pytorch), we compare the corresponding detection and segmentation results with IGNet.</br>
+> 
+> **Detection & Segmentation results:**
