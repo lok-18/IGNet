@@ -46,3 +46,10 @@ by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma
 > Note that if ```./test_images/vis/xxx.png``` is in single-channel L format, you should use ```LtoRGB.py``` to convert it to three-channel RGB format.
 
 ### *Test*
+> The pre-trained model has given in ```./model/IGNet.pth```.
+> Please run ```test.py``` to get fused results, and you can check them in:
+> ```
+> results
+> ├── 1.png
+> ├── 2.png
+> └── ...
