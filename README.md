@@ -22,9 +22,9 @@ by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma
 
 <br>**Demo:**</br>
 <div align=center>
-<img src="https://github.com/lok-18/IGNet/blob/master/fig/ir1.gif" width="30%">
-<img src="https://github.com/lok-18/IGNet/blob/master/fig/vis1.gif" width="30%">
-<img src="https://github.com/lok-18/IGNet/blob/master/fig/f1.gif" width="30%">
+<img src="https://github.com/lok-18/IGNet/blob/master/fig/demo_ir1.gif" width="30%">
+<img src="https://github.com/lok-18/IGNet/blob/master/fig/demo_vis1.gif" width="30%">
+<img src="https://github.com/lok-18/IGNet/blob/master/fig/demo_f1.gif" width="30%">
 </div> 
 
 ### *Requirements* 
