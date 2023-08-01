@@ -17,7 +17,15 @@ by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma
 **Framework of our proposed IGNet:**
 <div align=center>
 <img src="https://github.com/lok-18/IGNet/blob/master/fig/network.PNG" width="100%">
-</div>  
+</div> 
+
+
+<br>**Demo:**</br>
+<div align=center>
+<img src="https://github.com/lok-18/IGNet/blob/master/fig/ir1.gif" width="33%">
+<img src="https://github.com/lok-18/IGNet/blob/master/fig/vis1.gif" width="33%">
+<img src="https://github.com/lok-18/IGNet/blob/master/fig/f1.gif" width="33%">
+</div> 
 
 ### *Requirements* 
 > - python 3.7  
