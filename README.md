@@ -20,9 +20,9 @@ by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma
 </div> 
 
 
-<br>**Demo:**</br>
+<br>**GIF Demo:**</br>
 <div align=center>
-<img src="https://github.com/lok-18/IGNet/blob/master/fig/demo_ir1.gif" width="15.5%">
+<img src="https://github.com/lok-18/IGNet/blob/master/fig/demo_ir1.gif" width="15.5%" > 
 <img src="https://github.com/lok-18/IGNet/blob/master/fig/demo_vis1.gif" width="15.5%">
 <img src="https://github.com/lok-18/IGNet/blob/master/fig/demo_f1.gif" width="15.5%">
 <img src="https://github.com/lok-18/IGNet/blob/master/fig/demo_ir2.gif" width="15.5%">
