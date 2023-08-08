@@ -7,6 +7,7 @@
 ### *Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion (Accept)*
 in Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM 2023**)  
 by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma  
+- [[*arXiv*]](https://arxiv.org/abs/2308.03256)
 
 **Overall performance comparison:**
 <div align=center>
