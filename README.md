@@ -95,7 +95,6 @@ by Jiawei Li, Jiansheng Chen, JinyuanLiu and Huimin Ma
 >    booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
 >    pages = {4471–4479},
 >    year = {2023},
->    doi = {10.1145/3581783.3612135}
 > }
 > ```
 >
